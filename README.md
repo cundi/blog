@@ -1,6 +1,6 @@
 ## 简介
 
-所有博客文章均以 GitHub Issue 的形式发布，[点此阅读](https://github.com/)。
+所有博客文章均以 GitHub Issue 的形式发布，[点此阅读](https://github.com/cundi/blog/issues)。
 
 不想错过更多好文？请立即：
 
